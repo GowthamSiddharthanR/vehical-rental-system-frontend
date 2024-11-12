@@ -23,7 +23,7 @@ function DefaultLayout(props) {
           <Col lg={20} sm={24} xs={24}>
             <div className="d-flex justify-content-between">
               <h1>
-                <b><Link to='/' style={{ color: 'orangered' }}>VichuCars</Link></b>
+                <b><Link to='/' style={{ color: 'orangered' }}>Spartans Go</Link></b>
               </h1>
 
               <Dropdown menu={{ items: menuItems }} placement="bottomRight">
